@@ -12,6 +12,13 @@
 🌱 I’m currently learning and having fun.
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyber752/cyber752/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyber752/cyber752/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/cyber752/cyber752/output/github-snake.svg" />
+</picture>
+
+
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cyber752dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cyber752) 
 
