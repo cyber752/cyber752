@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cyber752&label=Profile%20views&color=0e75b6&style=flat" alt="cyber752" /> </p>
 
-<p align="center"> <a href="https://twitter.com/cyber752games" target="blank"><img src="https://img.shields.io/twitter/follow/cyber752dev?logo=twitter&style=for-the-badge" alt="Cyber752Games" /></a> </p>
+<p align="center"> <a href="https://twitter.com/cyber752games" target="blank"><img src="https://img.shields.io/twitter/follow/Cyber752Games?logo=twitter&style=for-the-badge" alt="Cyber752Games" /></a> </p>
 
 - 🔭 I’m currently working on [Taskify](https://github.com/cyber752/Taskify)
 
