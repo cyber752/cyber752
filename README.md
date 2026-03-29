@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Andrew Mikhail (Cyber752)</h1>
-<h3 align="center">Digital Masterpiece.</h3>
+<h1 align="center">Hi 👋, I'm Andrew Mikhail</h1>
+<h3 align="center">C# Developer | Front End Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cyber752&label=Profile%20views&color=0e75b6&style=flat" alt="cyber752" /> </p>
 
 <p align="center"> <a href="https://twitter.com/cyber752games" target="blank"><img src="https://img.shields.io/twitter/follow/Cyber752Games?logo=twitter&style=for-the-badge" alt="Cyber752Games" /></a> </p>
 
-- 🔭 I’m currently working on [Taskify](https://github.com/cyber752/Taskify)
 
 
 # 💫 About Me:
-🌱 I’m currently learning and having fun.
+🌱 I’m currently learning and coding.
 
 
 <picture>
