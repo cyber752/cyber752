@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrew Mikhail</h1>
-<h3 align="center">C# Developer | Front End Developer</h3>
+<h3 align="center">Software Engineer | C# - Javascript - React</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cyber752&label=Profile%20views&color=0e75b6&style=flat" alt="cyber752" /> </p>
 
